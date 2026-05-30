@@ -112,7 +112,7 @@ app.py (Flask REST API)
 
 ```bash
 # Clone the repository
-git clone https://github.com/bloodymranish-art/upi-fraud-detection.git
+git clone https://github.com/aryanraghav925/UPI-Fraud-Detection.git
 cd upi-fraud-detection
 
 # Install dependencies
